@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/BritMacgregor/fullstackTemplates/issues"
   },
-  "homepage": "https://github.com/BritMacgregor/fullstackTemplates#readme"
+  "homepage": "https://github.com/BritMacgregor/fullstackTemplates#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.1.6",
+    "morgan": "^1.9.0"
+  }
 }
