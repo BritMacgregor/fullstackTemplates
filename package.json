@@ -1,0 +1,19 @@
+{
+  "name": "fullstacktemplates",
+  "version": "1.0.0",
+  "description": "A template to use to begin all MEAN fullstack apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BritMacgregor/fullstackTemplates.git"
+  },
+  "author": "Brittney Mac Gregor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BritMacgregor/fullstackTemplates/issues"
+  },
+  "homepage": "https://github.com/BritMacgregor/fullstackTemplates#readme"
+}
